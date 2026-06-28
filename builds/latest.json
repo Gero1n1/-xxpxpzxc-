@@ -1,10 +1,14 @@
 {
-  "version": "1.0.2",
-  "changelog": "все команды",
+  "version": "1.0.3",
+  "changelog": "логин меню",
   "files": [
     {
       "name": "applex-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/Gero1n1/-xxpxpzxc-/main/builds/applex-1.0.0.jar"
+    },
+    {
+      "name": "applex-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Gero1n1/-xxpxpzxc-/main/builds/applex-1.0.3.jar"
     }
   ]
 }
